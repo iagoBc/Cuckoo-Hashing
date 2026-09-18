@@ -104,7 +104,3 @@ Saída:
 - `excluir`: remove uma chave.
 - `print_tab`: imprime as chaves armazenadas em ordem crescente.
 - `free_hash`: libera a memória alocada.
-
-## Licença
-
-Este projeto não possui uma licença definida.
